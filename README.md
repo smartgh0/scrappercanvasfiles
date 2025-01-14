@@ -41,7 +41,7 @@ The app is built using the following technologies:
    ```
 
 2. Enter the following details in the GUI:
-   - **Page URL**: URL of the Canvas page containing files.
+   - **Page URL**: URL of the Canvas page containing files (URL for course page).
    - **Username**: Your Canvas username.
    - **Password**: Your Canvas password.
    - **Download Directory**: Directory where files will be saved.
