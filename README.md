@@ -1,4 +1,4 @@
-# File Downloader App
+# Canvas Course Files Downloader App
 
 ## Description
 I built this python scrapper to enable me download all my course files from canvas after graduation. This is a GUI-based Python application for downloading files from authenticated websites like Canvas. It allows users to log in with credentials, specify a URL, and download files of various formats to a local directory. The app supports file extensions such as `.pdf`, `.docx`, `.pptx`, `.csv`, `.mp4`, `.jpg`, and more.
